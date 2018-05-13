@@ -1,3 +1,3 @@
-# Brisbane React JS Meetup Group
+# React Brisbane Meetup
 
-See [issues](https://github.com/Brisbane-React-JS/meetups/issues) for the proposed talks, voting and React JS jobs board.
+See [issues](https://github.com/ReactBrisbane/meetup/issues) for submitting & browsing talk proposals!
