@@ -20,6 +20,9 @@ The meetup is run by folk in the community, so please feel encouraged to jump in
 We're happy to help the industry grow, so if you're from a company that has a position opening _related to React_, then feel welcome to [create a posting](https://github.com/reactbris/meetup/issues/new/choose). Organisers will highlight the posting during future meetup events.
 
 <details>
+  <summary><a href="https://github.com/reactbris/meetup/labels/job%20offer">Current Job Postings</a></summary>
+</details>
+<details>
   <summary><em>Guide for Job Posters</em></summary>
 
 <br>
