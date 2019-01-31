@@ -27,7 +27,7 @@ We're happy to help the industry grow, so if you're from a company that has a po
 
 <br>
 
-> ReactBris **does** accomodate **transparent **job postings**. :thumbsup:  
+> ReactBris **does** accomodate **transparent job postings**. :thumbsup:  
 > ReactBris **doesn't** accomodate **opaque or vague recruitment**. :thumbsdown:
 
 ## :gem: "Transparent" Job Postings
