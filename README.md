@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="reactbris logo" width="300px" src="https://reactbris.org/assets/logo.svg" />
+  <img alt="reactbris logo" width="300px" src="https://reactbris.org/static/logo.svg" />
 </p>
 
 <p align="center">
