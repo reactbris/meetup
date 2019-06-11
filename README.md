@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="reactbris logo" width="300px" src="https://gitcdn.xyz/repo/reactbris/site/master/static/logo.png" />
+  <img alt="reactbris logo" width="300px" src="https://raw.githack.com/reactbris/site/master/static/logo.png" />
 </p>
 
 <p align="center">
